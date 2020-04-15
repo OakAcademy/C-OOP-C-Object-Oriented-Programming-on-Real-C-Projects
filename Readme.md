@@ -28,4 +28,4 @@ Not a bug, it is a feature.
 In the beginning, when the "6.1.2.CalculatorForm.rar" form is added, the video shows no error, although two additional libraries should be added into the references.
 I included an additional readme file inside "CalculatorForm.rar" file. That readme file should be added in the comments, as an instructor note.
 A version of the working solution where these libraries added is added as well with the name "6.1.2.CalculatorApp (Just After Empty Calculator Form Added).rar".
-I do not recommend adding this video into the lecture.
+I do not recommend adding this file into the lecture.
